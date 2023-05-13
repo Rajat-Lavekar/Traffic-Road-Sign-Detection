@@ -1,5 +1,5 @@
 # Traffic-Road-Sign-Detection
-A Convolutional Neural Net which classifies an input image into 4 classes - 
+A Convolutional Neural Net which classifies an input traffic scenario into 4 classes - 
 {Traffic Lights, Stop Sign, Pedestrian Sign, Speed Limit signs}
 
 The dataset used in this project is sourced from {https://makeml.app/datasets/road-signs}, which is then converted to a suitable format to be used by our model.
